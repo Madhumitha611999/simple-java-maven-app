@@ -10,7 +10,7 @@
       <password>admin</password>
     </server>
     <server>
-      <id>mymaven-releases</id>
+      <id>mymaven-release</id>
       <username>admin</username>
       <password>admin</password>
     </server>
